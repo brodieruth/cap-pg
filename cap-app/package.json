@@ -6,9 +6,10 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@sap/cds": "^7",
-    "express": "^4",
-    "@cap-js/postgres": "^1"
+    "@cap-js/postgres": "^1",
+    "@sap/cds": "^7.9.3",
+    "@sap/cds-runtime": "^3.3.0",
+    "express": "^4"
   },
   "devDependencies": {
     "@cap-js/sqlite": "^1"
